@@ -58,3 +58,9 @@
 ![Fifa](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
 
 <br>
+
+### 🎮 My Games
+
+### 🔥 Lava Runner
+[![Play Lava Runner on Itch.io](https://raw.githubusercontent.com/Siddhantbht02/LavaRunner/main/lava_runner_widget.png)](https://sidbhat02.itch.io/lava-runner)
+

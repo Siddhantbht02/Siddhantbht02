@@ -4,7 +4,9 @@
 ### 🌐 Connect with Me  
 <a href="https://www.linkedin.com/in/siddhantbhat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://huggingface.co/sid512206" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 </p>
 

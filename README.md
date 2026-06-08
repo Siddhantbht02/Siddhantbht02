@@ -60,9 +60,6 @@
 ### 🎮 Simulation & Game Development  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### Games
-![Fifa](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
-
 <br>
 
 ### 🎮 My Games
